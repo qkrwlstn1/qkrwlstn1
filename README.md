@@ -14,9 +14,9 @@
 
 
 ## 💻 기술 스택
-- 프로그래밍 언어: `Java`, `JavaScript`
-- 프레임워크 및 라이브러리: `React`, `Node.js`, `Spring`
-- 데이터베이스: 
+- 프로그래밍 언어: `Java`
+- 프레임워크 및 라이브러리:  `Spring`
+- 데이터베이스: `mysql`
 - 도구 및 기타: <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"/>
 
 ## 📈 통계
